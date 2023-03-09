@@ -34,7 +34,7 @@ const ComputersCanvas = () => {
       </Suspense>
 
     <Preload all />
-
+  //TODO: Give the picture of the computer down toward the bottom page
     </Canvas>
   );
 };
